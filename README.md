@@ -2,11 +2,8 @@
 A warper for EPSON projector Web Control make with Qt.
 
 ## Instructions
-1. Copy the settings.ini file from the application directory (default path:
-`C:\Program Files (x86)\oProjecter\settings.ini`) to the desktop.
-2. Open the settings.ini file with Notepad.
-3. Modify the url field by changing `192.168.0.205` to the projector's IP address, and save the file.
-4. Copy the modified `settings.ini` file back to the original directory and overwrite the existing file.
+1. Open the `settings.ini` file.
+2. Modify the url field by changing `192.168.0.205` to the projector's IP address, and save the file.
 
 ## Frequently Asked Questions
 
